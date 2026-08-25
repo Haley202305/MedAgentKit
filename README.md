@@ -1,6 +1,6 @@
 # MedAgentKit
 
-A collection of bioinformatics skills and agents for QoderWork.
+A collection of bioinformatics skills.
 
 ## Structure
 
