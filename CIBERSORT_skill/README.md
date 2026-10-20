@@ -1,6 +1,6 @@
 # CIBERSORT Skill
 
-QoderWork skill for immune cell deconvolution using CIBERSORT.
+Skill for immune cell deconvolution using CIBERSORT.
 
 ## What is CIBERSORT
 
