@@ -1,4 +1,0 @@
-interface:
-  display_name: "Paper Insight Reporter 文献拆解"
-  short_description: "逐节拆解文献，产出带图锚点的完整阅读报告"
-  default_prompt: "Use $paper-insight-reporter to deconstruct this paper and produce a figure-anchored reading report."
